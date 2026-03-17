@@ -57,29 +57,18 @@ Pulse fixes that by making **financial literacy fun**:
 ## Platform
 
 - 🍎 **iOS** — Coming Soon  
-- 🌐 **Waitlist** — [Join at pulse-waitlist.github.io](https://ishaan-pulse.github.io)
+- 🌐 **Waitlist** — [Join at pulse-waitlist.github.io](https://ishaan-gulati.github.io/Pulse/waitlist.html)
 
 ---
 
 ## Tech Stack
 
-- Swift / SwiftUI (iOS)
+- React Native(iOS)
 - GitHub Pages (waitlist & landing)
 - Live stock market API integration
 
 ---
 
-## Roadmap
-
-- [x] Waitlist page live
-- [ ] iOS beta launch
-- [ ] Real-time stock data integration
-- [ ] Social feed & friend system
-- [ ] Leaderboards & XP system
-- [ ] Portfolio analytics dashboard
-- [ ] Android version
-
----
 
 ## Built by a Teen, for Teens
 
@@ -89,7 +78,7 @@ Pulse was created by a high school freshman who believes **every teenager deserv
 
 ## Join the Waitlist
 
-📬 **[Sign up at our waitlist page →](https://ishaan-pulse.github.io)**  
+📬 **[Sign up at our waitlist page →](https://ishaan-gulati.github.io/Pulse/waitlist.html)**  
 Be the first to know when Pulse launches on iOS.
 
 ---
@@ -101,3 +90,12 @@ Got feedback, ideas, or want to collab? Open an issue or reach out.
 ---
 
 *Pulse — Paper trading. Real learning. Built for the next generation of investors.*
+
+keywords:
+paper trading app, stock market simulator, virtual trading app, fake money stock trading, paper trading platform, investment simulator, virtual stock market game, stock market game app
+paper trading app for teens, stock trading app for teenagers, stock market app for high schoolers, investing app for students, teen investing app, stock market game for high school students, learn to invest as a teen, financial literacy app for teens, investing for beginners teenager, stock market simulator for kids
+gamified stock trading, gamified investing app, stock market game with leaderboards, XP stock trading, level up investing, stock trading game with rewards, fantasy stock market, stock market competition app
+social trading app, social stock market simulator, follow friends stock trading, share stock picks app, community investing app, social paper trading, stock trading with friends
+learn stock market app, stock market education app, how to invest for beginners, financial literacy app, investment learning app, stock market practice app, risk free stock trading, virtual investing for beginners
+best paper trading app for beginners, free stock market simulator iOS, paper trading app no real money, stock market simulator with real data, paper trading leaderboard, virtual portfolio tracker app, practice stock trading app iPhone
+Robinhood for teens, Webull simulator, thinkorswim paper trading alternative, investopedia stock simulator alternative, How to Start Investing teenager
