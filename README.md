@@ -3,8 +3,8 @@
 > **The gamified stock market simulator where Gen Z learns to invest, compete, and grow.**  
 > Trade real stocks with fake money. Build your portfolio. Climb the leaderboard. No risk, all reward.
 
-[![iOS Coming Soon](https://img.shields.io/badge/iOS-Coming%20Soon-black?style=flat-square&logo=apple)](https://ishaan-pulse.github.io)
-[![Waitlist](https://img.shields.io/badge/Join%20Waitlist-Live-brightgreen?style=flat-square)](https://ishaan-pulse.github.io)
+[![iOS Coming Soon](https://img.shields.io/badge/iOS-Coming%20Soon-black?style=flat-square&logo=apple)](https://ishaan-pulse.github.io/Pulse)
+[![Waitlist](https://img.shields.io/badge/Join%20Waitlist-Live-brightgreen?style=flat-square)](https://ishaan-pulse.github.io/Pulse/waitlist.html)
 [![Made by a Teen](https://img.shields.io/badge/Built%20by-a%20Teen%20Developer-blueviolet?style=flat-square)]()
 
 ---
